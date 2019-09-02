@@ -17,6 +17,7 @@ public class AopHystrix {
 
 	private static final Logger logger = LoggerFactory.getLogger(AopHystrix.class);
 
+	
 	/**
 	 * 定义一个切点
 	 */
